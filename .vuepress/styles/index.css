@@ -1,0 +1,22 @@
+body {
+  .navbar-links-wrapper {
+    @apply hidden !important;
+  }
+
+  .banner-brand__wrapper {
+    background-image: radial-gradient(rgba(93, 103, 232, 0.2) 10%, rgba(255, 255, 255, 0) 60%);
+
+    .banner-brand__content {
+      .title {
+        @apply leading-tight;
+      }
+      .description {
+        @apply text-xl;
+      }
+    }
+  }
+
+  .works__container {
+    background-image: radial-gradient(rgba(239, 68, 68, 0.1) 10%, rgba(255, 255, 255, 0) 60%);
+  }
+}
