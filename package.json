@@ -5,7 +5,7 @@
     "build": "vuepress build ."
   },
   "dependencies": {
-    "vue": "^3.4.31",
+    "vue": "^3.4.32",
     "vuepress": "^2.0.0-rc.14",
     "vuepress-theme-reco": "^2.0.0-rc.16",
     "@vuepress/bundler-vite": "^2.0.0-rc.14",
