@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@theo-messi/tm-fe':
-        specifier: ^2.3.0
-        version: 2.4.0
+        specifier: ^2.4.2
+        version: 2.4.2
       lint-staged:
         specifier: ^15.2.8
         version: 15.2.8
@@ -402,8 +402,8 @@ packages:
   '@shikijs/transformers@1.12.1':
     resolution: {integrity: sha512-zOpj/S2thBvnJV4Ty3EE8aRs/VqCbV+lgtEYeBRkPxTW22uLADEIZq0qjt5W2Rfy2KSu29e73nRyzp4PefjUTg==}
 
-  '@theo-messi/tm-fe@2.4.0':
-    resolution: {integrity: sha512-ZgWGF7QRKJ+RzbLmwKu0hsOWSIxpItLRhhmuLpthcckm8ONK7vrF7i6vYi7hN4m/kQjVV5W6aMFmGIRywJMwXQ==}
+  '@theo-messi/tm-fe@2.4.2':
+    resolution: {integrity: sha512-kifY2dLGZJ0qxcfBEJgnabZIaYkp7iUomfo7B7SgftylK3BkHMqiHsxd64gzhbssi+CD3+lnFRdu2sz1wkeg0w==}
 
   '@types/estree@1.0.5':
     resolution: {integrity: sha512-/kYRxGDLWzHOB7q+wtSUQlFrtcdUccpfy+X+9iMBpHK8QLLhx2wIPYuS5DYtR9Wa/YlZAbIovy7qVdB1Aq6Lyw==}
@@ -1442,7 +1442,7 @@ snapshots:
     dependencies:
       shiki: 1.12.1
 
-  '@theo-messi/tm-fe@2.4.0':
+  '@theo-messi/tm-fe@2.4.2':
     dependencies:
       '@fortawesome/fontawesome-free': 6.6.0
       '@mdit/plugin-img-size': 0.13.0
