@@ -15,7 +15,7 @@
     ]
   },
   "devDependencies": {
-    "@theojs/lumen": "^5.4.2",
+    "@theojs/lumen": "^5.4.3",
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "lint-staged": "^16.0.0",
     "prettier": "3.5.3",
