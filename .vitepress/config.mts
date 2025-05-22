@@ -5,7 +5,7 @@ import { head } from './config/head'
 export default defineConfig({
   title: 'Theo Homepage',
   lang: 'zh-hans',
-  description: '',
+  description: 'Homepage',
   // appearance: 'force-dark',
   metaChunk: true,
   cleanUrls: true,
@@ -20,6 +20,11 @@ export default defineConfig({
       linkLabel: '返回首页重新探索',
       linkText: '返回首页',
       code: '404'
+    }
+  },
+  vite: {
+    optimizeDeps: {
+      include: ['recaptcha-v3']
     }
   }
 })
